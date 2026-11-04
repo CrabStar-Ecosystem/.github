@@ -18,8 +18,8 @@ CrabStar brings identity, intelligence, campaign economics and connected experie
 | --- | --- | --- |
 | **Oracle** | Persistent identity, intelligence, reputation and community operations | Founding developer: [Thomas Phillips](https://github.com/darealrektrush) |
 | **Project Q** | Campaign infrastructure, verified participation and economic coordination | Founding developer: [Thomas Phillips](https://github.com/darealrektrush) |
-| **SHADOW** | Solana intelligence, wallet research and staged agentic DeFi infrastructure | Developed collaboratively by the CrabStar team |
-| **Universe** | A connected web and native mobile experience for the ecosystem | Developed collaboratively by the CrabStar team |
+| **SHADOW** | Solana intelligence, wallet research and staged agentic DeFi infrastructure | Collaborative developers: [Thomas Phillips](https://github.com/darealrektrush) & [Andrew](https://github.com/Andrew-07) |
+| **Universe** | A connected web and native mobile experience for the ecosystem | Collaborative developers: [Thomas Phillips](https://github.com/darealrektrush) & [Andrew](https://github.com/Andrew-07) |
 
 **FAWKQ** supports ecosystem activation and participation experiments. **Revenue Operations** explores sustainable operating models for the infrastructure behind the products.
 

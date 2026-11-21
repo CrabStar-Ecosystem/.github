@@ -23,7 +23,7 @@ CrabStar brings identity, intelligence, campaign economics and connected experie
 
 ## FAWKQ — community utility & economic experimentation
 
-**[FAWKQ ($FAWKQ)](https://fawkq.com/)** is a Solana token whose original ecosystem role centers on **Bagwork**, community contributions and participation-driven economic mechanics. Its expanding integration direction connects **Oracle** identity and verified wallets with **Project Q** campaign economics, token-aware eligibility, and on-chain reward coordination.
+**[FAWKQ ($FAWKQ)](https://fawkq.com/)** is a Solana token rooted in **Bagwork**, community contributions, and participation-driven economics, with **Project Q's on-chain token distribution and reward coordination infrastructure** extending those mechanics. Its integration direction connects **Oracle** identity and verified wallets to campaign eligibility, programmable economics, distributions, and traceable settlement evidence.
 
 FAWKQ serves as an early proving environment for the wider CrabStar ecosystem. Planned integrations and economic mechanics should not be confused with verified live payouts or completed release milestones.
 

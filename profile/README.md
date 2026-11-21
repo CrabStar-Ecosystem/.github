@@ -17,9 +17,9 @@ CrabStar brings identity, intelligence, campaign economics and connected experie
 | System | Purpose | Development |
 | --- | --- | --- |
 | **Oracle** | Persistent identity, intelligence, reputation and community operations | Founding developer: [Thomas Phillips](https://github.com/darealrektrush) |
-| **Project Q** | Campaign infrastructure, verified participation and economic coordination | Founding developer: [Thomas Phillips](https://github.com/darealrektrush) |
-| **SHADOW** | Solana intelligence, wallet research and staged agentic DeFi infrastructure | Collaborative developers: [Thomas Phillips](https://github.com/darealrektrush) & [Andrew](https://github.com/Andrew-07) |
-| **Universe** | A connected web and native mobile experience for the ecosystem | Collaborative developers: [Thomas Phillips](https://github.com/darealrektrush) & [Andrew](https://github.com/Andrew-07) |
+| **Project Q** | Campaign infrastructure, verified participation, on-chain/DeFi mechanics and economic coordination | Founding developer: [Thomas Phillips](https://github.com/darealrektrush) |
+| **SHADOW** | Solana intelligence, wallet research and staged agentic DeFi infrastructure | Lead developer: [Thomas Phillips](https://github.com/darealrektrush)<br>Collaborative developers: [Thomas Phillips](https://github.com/darealrektrush) & [Andrew](https://github.com/Andrew-07) |
+| **Universe** | A connected web and native mobile experience for the ecosystem | Lead developer: [Thomas Phillips](https://github.com/darealrektrush)<br>Collaborative developers: [Thomas Phillips](https://github.com/darealrektrush) & [Andrew](https://github.com/Andrew-07) |
 
 **FAWKQ** supports ecosystem activation and participation experiments. **Revenue Operations** explores sustainable operating models for the infrastructure behind the products.
 
@@ -38,6 +38,9 @@ CrabStar brings identity, intelligence, campaign economics and connected experie
 Core implementation repositories are private. Public engineering material offers a closer look at the product thinking, architecture and selected examples.
 
 - **[Oracle product case study](https://github.com/darealrektrush/oracle-product-case-study)** — identity, intelligence and ecosystem operations.
+- **[Project Q case study](https://github.com/darealrektrush/darealrektrush/blob/main/case-studies/project-q.md)** — verified participation, on-chain/DeFi mechanics and accountable settlement.
+- **[SHADOW case study](https://github.com/darealrektrush/darealrektrush/blob/main/case-studies/shadow.md)** — independent wallet research, evidence-driven intelligence and staged execution.
+- **[Universe case study](https://github.com/darealrektrush/darealrektrush/blob/main/case-studies/universe.md)** — unified web/native product architecture and shared ecosystem identity.
 - **[Engineering portfolio](https://github.com/darealrektrush)** — project showcases, architecture and runnable examples.
 
 ## Building the next tide

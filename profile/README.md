@@ -21,7 +21,17 @@ CrabStar brings identity, intelligence, campaign economics and connected experie
 | **SHADOW** | Solana intelligence, wallet research and staged agentic DeFi infrastructure | Founding Developer & Technical Lead: [Thomas Phillips](https://github.com/darealrektrush)<br>Collaborative Developers: [Thomas Phillips](https://github.com/darealrektrush) & [Andrew](https://github.com/Andrew-07) |
 | **Universe** | A connected web and native mobile experience for the ecosystem | Co-Founding Developer & Technical Lead: [Thomas Phillips](https://github.com/darealrektrush)<br>Collaborative Developers: [Thomas Phillips](https://github.com/darealrektrush) & [Andrew](https://github.com/Andrew-07) |
 
-**FAWKQ** supports ecosystem activation and participation experiments. **Revenue Operations** explores sustainable operating models for the infrastructure behind the products.
+## FAWKQ — community utility & economic experimentation
+
+**[FAWKQ ($FAWKQ)](https://fawkq.com/)** is a Solana token whose original ecosystem role centers on **Bagwork**, community contributions and participation-driven economic mechanics. Its expanding integration direction connects **Oracle** identity and verified wallets with **Project Q** campaign economics, token-aware eligibility, and on-chain reward coordination.
+
+FAWKQ serves as an early proving environment for the wider CrabStar ecosystem. Planned integrations and economic mechanics should not be confused with verified live payouts or completed release milestones.
+
+**Network:** Solana Mainnet  
+**Token mint address:** `GKnhgBgyYs8zPvteBoMXjt1Ew962tQYVU8gQztFdpump`  
+**Explorer:** [Verify on Solscan](https://solscan.io/token/GKnhgBgyYs8zPvteBoMXjt1Ew962tQYVU8gQztFdpump) · [Official token website](https://fawkq.com/)
+
+**Revenue Operations** explores sustainable operating models for the infrastructure behind the products.
 
 ## Built with intent
 
